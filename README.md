@@ -1,2 +1,3 @@
-# DSP_Assignment3
-DSP assignment 3, Ballerina
+# DSP_Project
+Distibuted Systems Programming in Ballerina
+Microservices on Thesis proposal models
